@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/EC/',
+  base: '/ECommerce-React/',
   build: {
     outDir: 'docs',
   },
